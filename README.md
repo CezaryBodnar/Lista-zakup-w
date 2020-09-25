@@ -4,4 +4,5 @@
 - dodawanie nowych produktów,
 - usuwanie produktów,
 - zaznaczanie kupionych produktów,
-- filtrowanie produktów.
+- filtrowanie produktów,
+- zapisywanie powstałej listy w pamięci lokalnej.
